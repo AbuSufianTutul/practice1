@@ -1,0 +1,34 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+section{
+    display: flex;
+    line-height: 20px;
+}
+.skip-color{
+    color: blue;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, black);
+    color: white;
+    border-radius: 20px;
+    padding:10px 20px 10px;
+    font-weight: 400;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+h1{
+    font-size: 45px;
+}
+.half-width p{
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+.first-half{
+    padding: 80px;
+}
