@@ -67,3 +67,46 @@ h2{
     margin: 0;
     
 }
+
+
+.position-1{
+    float: left;
+    width: 25%;
+    text-align: center;
+    
+  
+}
+.position-2{
+    float: left;
+    width: 50%;
+    
+}
+.position-3{
+    float: right;
+    width: 25%;
+   
+}
+.header{
+    box-shadow: 15px 15px 20px gray;
+    border-radius: 10px;
+    margin-left: 80px;
+    margin-top: 0;
+    text-align: center;
+    width: 90%;
+    
+}
+.footer{
+    background-color: rgb(19, 36, 51);
+    text-align: center;
+    height: 200px;
+    margin-top: 50px;
+}
+.eat-color{
+  color: orange;
+}
+.fresh-color{
+    color: rgb(150, 143, 143);
+}
+.para-color{
+    color: white;
+}
