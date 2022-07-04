@@ -49,7 +49,9 @@ h2{
     padding-right: 300px;
 }
 .recipie-title{
+    width: 100%;
     margin-left: 80px;
+
     margin-top: 50px;
     margin-right: 50px;
     margin-bottom: 100px;
