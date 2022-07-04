@@ -1,5 +1,6 @@
 body{
     font-family: 'Kanit', sans-serif;
+    margin: 0px;
 }
 section{
     display: flex;
@@ -8,7 +9,7 @@ section{
 .skip-color{
     color: blue;
 }
-.order-button{
+.button{
     text-decoration: none;
     background-image: linear-gradient(blue, black);
     color: white;
@@ -31,4 +32,14 @@ h1{
 }
 .first-half{
     padding: 80px;
+}
+.section-two{
+    margin-top: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.background-1{
+    background-image: url(images/background-1.jpg);
+    background-repeat: no-repeat;
 }
